@@ -24,7 +24,7 @@
 <h3 align="center"><b>Connect with me:</b></h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ram-sharma-5018a8339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/pratham-sahani-3a0791239/](https://www.linkedin.com/in/ram-sharma-5018a8339/)" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/kasoti2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kasoti2002/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Ram0986/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Ram0986/" height="30" width="40" /></a>
 
 <!-- <br></br>
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=PrathamSahani&theme=dark&card_width=450&hide_total_contributions=true)](https://git.io/streak-stats)" alt="prathamsahani" /></p>
